@@ -4,3 +4,4 @@ helps to improve java code quality and read quality
 1. Proxy Design Pattern
 2. Facade Design Pattern
 3. Composite Design Pattern
+4. Flyweight Design Pattern
