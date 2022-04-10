@@ -5,3 +5,4 @@ helps to improve the strcture of java code and read quality
 2. Facade Design Pattern
 3. Composite Design Pattern
 4. Flyweight Design Pattern
+5. Bridge Design Pattern
